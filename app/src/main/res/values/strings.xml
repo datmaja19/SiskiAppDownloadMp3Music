@@ -4,7 +4,7 @@
     <string name="buttonname">Start App</string>
 
     <string name="json">http://dodi.marmud.com/2019/siskiapp/downloadmp3music.json</string>
-    <string name="">https://.soundcloud.com</string>
+    <string name="api">https://.soundcloud.com</string>
 
     <!-- Sample AdMob App ID: ca-app-pub-3940256099942544~3347511713 -->
     <string name="appid">ca-app-pub-5477223151700785~4068448814</string>
